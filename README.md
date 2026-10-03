@@ -1,1 +1,1 @@
-# Masters-thesis-project-of-Zahidul-Hoque-University-of-Hertfordshire-Student-id-23097240-
+# prototypical Mask R-CNN for Vehicle Exterior Damage Detection 
