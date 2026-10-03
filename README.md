@@ -15,16 +15,16 @@ The system automatically detects, segments, and classifies six types of exterior
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 1. **Interactive Web Dashboard (`app.py`)**:
    - Modern dark UI with color-coded damage badges and glassmorphism styling.
    - **Multi-source Image Input**: Drag & drop file upload, clipboard paste, or webcam capture.
    - **Real-time KPI Metrics**:
-     - 🚨 **Total Defects Found**
-     - 🏷️ **Primary Damage Category**
-     - 🎯 **Peak Detection Confidence**
-     - ⚠️ **Vehicle Severity Assessment** (*Minor, Moderate, Severe*)
+     -  **Total Defects Found**
+     -  **Primary Damage Category**
+     -  **Peak Detection Confidence**
+     -  **Vehicle Severity Assessment** (*Minor, Moderate, Severe*)
    - **Interactive Controls**:
      - *Confidence Threshold* slider (0.05 – 0.95)
      - *NMS IoU Overlap Threshold* slider (0.10 – 0.70) to merge duplicate boxes
