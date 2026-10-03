@@ -1,9 +1,9 @@
 # prototypical Mask R-CNN for Vehicle Exterior Damage Detection 
 
 
-# 🚗 Vehicle Exterior Damage Detection AI Inspector
+#  Vehicle Exterior Damage Detection 
 
-An AI application for vehicle exterior damage detection, segmentation, and inspection grading powered by **Prototypical Mask R-CNN** (ResNet-50-FPN backbone) trained on the **CarDD** dataset.
+An application for vehicle exterior damage detection, segmentation, and inspection grading powered by **Prototypical Mask R-CNN** (ResNet-50-FPN backbone) trained on the **CarDD** dataset.
 
 The system automatically detects, segments, and classifies six types of exterior vehicle damage:
 - 🟠 **Dent** (`#FF7A00`)
