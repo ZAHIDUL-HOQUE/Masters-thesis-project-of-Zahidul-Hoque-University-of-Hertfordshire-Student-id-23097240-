@@ -47,7 +47,7 @@ The system automatically detects, segments, and classifies six types of exterior
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### 1. Launch Web Application (Windows)
 Double-click `run_app.bat` or run:
@@ -57,7 +57,7 @@ Double-click `run_app.bat` or run:
 ```
 
 The web interface will launch automatically in your default browser at:
-👉 **`http://127.0.0.1:7860`**
+ **`http://127.0.0.1:7860`**
 
 ### 2. Run via Command Line (CLI)
 
@@ -87,7 +87,7 @@ The web interface will launch automatically in your default browser at:
 
 ---
 
-## 🛠️ Installation & Environment Setup
+##  Installation & Environment Setup
 
 If you want to set up a new environment manually:
 
