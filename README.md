@@ -18,7 +18,7 @@ The system automatically detects, segments, and classifies six types of exterior
 ##  Key Features
 
 1. **Interactive Web Dashboard (`app.py`)**:
-   - Modern dark UI with color-coded damage badges and glassmorphism styling.
+
    - **Multi-source Image Input**: Drag & drop file upload, clipboard paste, or webcam capture.
    - **Real-time KPI Metrics**:
      -  **Total Defects Found**
